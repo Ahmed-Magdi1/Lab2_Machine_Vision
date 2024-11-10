@@ -2,7 +2,11 @@
 
 ### This repository contains a Colab notebook script for various image processing tasks completed for Lab_2 in the Machine Vision
 
-## The file is too large to display in github. To view it, Download the repository and open the notebook in Google Colab manually.
+## The file is too large to display in github. To view it, 
+
+1)  Colab link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Mpe-FR3NGyjiXkkZGAgkpLyg6pfYCcoF?usp=sharing)
+   
+2)  Download the repository and open the notebook in Google Colab manually.
 
 Google Colab notebook [Lab_2 Notebook](./Lab2.ipynb)
 
