@@ -11,3 +11,5 @@ The image used in the notebook is provided as [Lab_2 image_1](./ahmed.png)
 The image used in the notebook is provided as [Lab_2 image_2](./clear_image.jpeg)
 
 The image used in the notebook is provided as [Lab_2 image_3](./distributed_image.jpeg)
+
+The image used in the notebook is provided as [Lab_2 image_4](./question_3.jpeg)
